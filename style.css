@@ -1,0 +1,50 @@
+  *{
+    table {
+            width: 50%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        th, td {
+            border-radius: 4px;
+            padding: 8px;
+            text-align: left;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        th {
+            background-color: #007c25;
+            color:#fff;
+        }
+        form {
+            margin-bottom: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        form input{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            background-color: #aafabe;
+            border:none;
+            border-bottom: 1px solid #969696;
+            padding: 4px;
+            border-radius: 4px;
+        }
+
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 40px;
+        }
+        button {
+            background-color:#007c25;
+            color:#fff;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            padding: 4px;
+            border-radius: 4px;
+        }
+        body{
+            background-color: rgb(255, 255, 255);
+        }
+    }
